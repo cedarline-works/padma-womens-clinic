@@ -1,0 +1,6 @@
+{
+  "name": "Padma Women's Clinic",
+  "description": "Shekhawati's dedicated Fetal Medicine, High-Risk Pregnancy & Gynae Laparoscopy Center in Sikar, Rajasthan, led by Dr. Hari Bajiya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
